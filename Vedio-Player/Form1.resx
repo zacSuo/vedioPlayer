@@ -130,66 +130,30 @@
   <data name="menuStrip1.Dock" type="System.Windows.Forms.DockStyle, System.Windows.Forms">
     <value>None</value>
   </data>
-  <data name="openFileToolStripMenuItem.ShortcutKeys" type="System.Windows.Forms.Keys, System.Windows.Forms">
-    <value>Ctrl+O</value>
-  </data>
   <assembly alias="System.Drawing" name="System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
-  <data name="openFileToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
-    <value>167, 22</value>
-  </data>
-  <data name="openFileToolStripMenuItem.Text" xml:space="preserve">
-    <value>Open File</value>
-  </data>
-  <data name="quitToolStripMenuItem.ShortcutKeys" type="System.Windows.Forms.Keys, System.Windows.Forms">
-    <value>Ctrl+Q</value>
-  </data>
-  <data name="quitToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
-    <value>167, 22</value>
-  </data>
-  <data name="quitToolStripMenuItem.Text" xml:space="preserve">
-    <value>Quit</value>
-  </data>
   <data name="browseToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
-    <value>52, 20</value>
+    <value>51, 24</value>
   </data>
   <data name="browseToolStripMenuItem.Text" xml:space="preserve">
-    <value>Media</value>
-  </data>
-  <data name="helpToolStripMenuItem.ShortcutKeys" type="System.Windows.Forms.Keys, System.Windows.Forms">
-    <value>Ctrl+S</value>
-  </data>
-  <data name="helpToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
-    <value>59, 20</value>
-  </data>
-  <data name="helpToolStripMenuItem.Text" xml:space="preserve">
-    <value>Subtitle</value>
-  </data>
-  <data name="aboutToolStripMenuItem.ShortcutKeyDisplayString" xml:space="preserve">
-    <value />
-  </data>
-  <data name="aboutToolStripMenuItem.ShortcutKeys" type="System.Windows.Forms.Keys, System.Windows.Forms">
-    <value>F4</value>
-  </data>
-  <data name="aboutToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
-    <value>44, 20</value>
-  </data>
-  <data name="aboutToolStripMenuItem.Text" xml:space="preserve">
-    <value>Help</value>
+    <value>文件</value>
   </data>
   <data name="aboutToolStripMenuItem1.ShortcutKeys" type="System.Windows.Forms.Keys, System.Windows.Forms">
     <value>F5</value>
   </data>
   <data name="aboutToolStripMenuItem1.Size" type="System.Drawing.Size, System.Drawing">
-    <value>52, 20</value>
+    <value>51, 24</value>
   </data>
   <data name="aboutToolStripMenuItem1.Text" xml:space="preserve">
-    <value>About</value>
+    <value>关于</value>
   </data>
   <data name="menuStrip1.Location" type="System.Drawing.Point, System.Drawing">
     <value>0, 0</value>
   </data>
+  <data name="menuStrip1.Padding" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>8, 2, 0, 2</value>
+  </data>
   <data name="menuStrip1.Size" type="System.Drawing.Size, System.Drawing">
-    <value>259, 24</value>
+    <value>112, 28</value>
   </data>
   <assembly alias="mscorlib" name="mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
   <data name="menuStrip1.TabIndex" type="System.Int32, mscorlib">
@@ -210,6 +174,24 @@
   <data name="&gt;&gt;menuStrip1.ZOrder" xml:space="preserve">
     <value>3</value>
   </data>
+  <data name="openFileToolStripMenuItem.ShortcutKeys" type="System.Windows.Forms.Keys, System.Windows.Forms">
+    <value>Ctrl+O</value>
+  </data>
+  <data name="openFileToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
+    <value>166, 24</value>
+  </data>
+  <data name="openFileToolStripMenuItem.Text" xml:space="preserve">
+    <value>打开</value>
+  </data>
+  <data name="quitToolStripMenuItem.ShortcutKeys" type="System.Windows.Forms.Keys, System.Windows.Forms">
+    <value>Ctrl+Q</value>
+  </data>
+  <data name="quitToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
+    <value>166, 24</value>
+  </data>
+  <data name="quitToolStripMenuItem.Text" xml:space="preserve">
+    <value>退出</value>
+  </data>
   <data name="button5.AutoSize" type="System.Boolean, mscorlib">
     <value>True</value>
   </data>
@@ -228,11 +210,17 @@
   <data name="button5.ImageAlign" type="System.Drawing.ContentAlignment, System.Drawing">
     <value>BottomCenter</value>
   </data>
+  <data name="button5.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
   <data name="button5.Location" type="System.Drawing.Point, System.Drawing">
-    <value>400, 14</value>
+    <value>533, 16</value>
+  </data>
+  <data name="button5.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>4, 3, 4, 3</value>
   </data>
   <data name="button5.Size" type="System.Drawing.Size, System.Drawing">
-    <value>50, 50</value>
+    <value>67, 58</value>
   </data>
   <data name="button5.TabIndex" type="System.Int32, mscorlib">
     <value>17</value>
@@ -247,7 +235,7 @@
     <value>groupBox2</value>
   </data>
   <data name="&gt;&gt;button5.ZOrder" xml:space="preserve">
-    <value>3</value>
+    <value>4</value>
   </data>
   <data name="Btn_Stop.AutoSize" type="System.Boolean, mscorlib">
     <value>True</value>
@@ -265,11 +253,17 @@
   <data name="Btn_Stop.ImageAlign" type="System.Drawing.ContentAlignment, System.Drawing">
     <value>BottomCenter</value>
   </data>
+  <data name="Btn_Stop.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
   <data name="Btn_Stop.Location" type="System.Drawing.Point, System.Drawing">
-    <value>344, 14</value>
+    <value>459, 16</value>
+  </data>
+  <data name="Btn_Stop.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>4, 3, 4, 3</value>
   </data>
   <data name="Btn_Stop.Size" type="System.Drawing.Size, System.Drawing">
-    <value>50, 50</value>
+    <value>67, 58</value>
   </data>
   <data name="Btn_Stop.TabIndex" type="System.Int32, mscorlib">
     <value>16</value>
@@ -284,7 +278,7 @@
     <value>groupBox2</value>
   </data>
   <data name="&gt;&gt;Btn_Stop.ZOrder" xml:space="preserve">
-    <value>5</value>
+    <value>6</value>
   </data>
   <data name="Btn_FastBackward.AutoSize" type="System.Boolean, mscorlib">
     <value>True</value>
@@ -304,11 +298,17 @@
   <data name="Btn_FastBackward.ImageAlign" type="System.Drawing.ContentAlignment, System.Drawing">
     <value>BottomCenter</value>
   </data>
+  <data name="Btn_FastBackward.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
   <data name="Btn_FastBackward.Location" type="System.Drawing.Point, System.Drawing">
-    <value>288, 14</value>
+    <value>384, 16</value>
+  </data>
+  <data name="Btn_FastBackward.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>4, 3, 4, 3</value>
   </data>
   <data name="Btn_FastBackward.Size" type="System.Drawing.Size, System.Drawing">
-    <value>50, 50</value>
+    <value>67, 58</value>
   </data>
   <data name="Btn_FastBackward.TabIndex" type="System.Int32, mscorlib">
     <value>15</value>
@@ -323,7 +323,7 @@
     <value>groupBox2</value>
   </data>
   <data name="&gt;&gt;Btn_FastBackward.ZOrder" xml:space="preserve">
-    <value>6</value>
+    <value>7</value>
   </data>
   <data name="Btn_Next.AutoSize" type="System.Boolean, mscorlib">
     <value>True</value>
@@ -343,11 +343,17 @@
   <data name="Btn_Next.ImageAlign" type="System.Drawing.ContentAlignment, System.Drawing">
     <value>BottomCenter</value>
   </data>
+  <data name="Btn_Next.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
   <data name="Btn_Next.Location" type="System.Drawing.Point, System.Drawing">
-    <value>232, 14</value>
+    <value>309, 16</value>
+  </data>
+  <data name="Btn_Next.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>4, 3, 4, 3</value>
   </data>
   <data name="Btn_Next.Size" type="System.Drawing.Size, System.Drawing">
-    <value>50, 50</value>
+    <value>67, 58</value>
   </data>
   <data name="Btn_Next.TabIndex" type="System.Int32, mscorlib">
     <value>13</value>
@@ -362,7 +368,7 @@
     <value>groupBox2</value>
   </data>
   <data name="&gt;&gt;Btn_Next.ZOrder" xml:space="preserve">
-    <value>4</value>
+    <value>5</value>
   </data>
   <data name="Btn_Play.AutoSize" type="System.Boolean, mscorlib">
     <value>True</value>
@@ -381,11 +387,17 @@
   <data name="Btn_Play.ImageAlign" type="System.Drawing.ContentAlignment, System.Drawing">
     <value>BottomCenter</value>
   </data>
+  <data name="Btn_Play.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
   <data name="Btn_Play.Location" type="System.Drawing.Point, System.Drawing">
-    <value>104, 6</value>
+    <value>139, 16</value>
+  </data>
+  <data name="Btn_Play.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>4, 3, 4, 3</value>
   </data>
   <data name="Btn_Play.Size" type="System.Drawing.Size, System.Drawing">
-    <value>66, 58</value>
+    <value>88, 58</value>
   </data>
   <data name="Btn_Play.TabIndex" type="System.Int32, mscorlib">
     <value>11</value>
@@ -400,13 +412,19 @@
     <value>groupBox2</value>
   </data>
   <data name="&gt;&gt;Btn_Play.ZOrder" xml:space="preserve">
-    <value>1</value>
+    <value>2</value>
   </data>
   <data name="statusBar1.Dock" type="System.Windows.Forms.DockStyle, System.Windows.Forms">
     <value>None</value>
   </data>
+  <data name="statusBar1.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
   <data name="statusBar1.Location" type="System.Drawing.Point, System.Drawing">
-    <value>1074, 16</value>
+    <value>661, 24</value>
+  </data>
+  <data name="statusBar1.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>4, 3, 4, 3</value>
   </data>
   <data name="statusBarPanel1.Name" xml:space="preserve">
     <value>statusBarPanel1</value>
@@ -418,7 +436,7 @@
     <value>statusBarPanel3</value>
   </data>
   <data name="statusBar1.Size" type="System.Drawing.Size, System.Drawing">
-    <value>278, 28</value>
+    <value>303, 32</value>
   </data>
   <data name="statusBar1.TabIndex" type="System.Int32, mscorlib">
     <value>14</value>
@@ -430,57 +448,25 @@
     <value>System.Windows.Forms.StatusBar, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
   <data name="&gt;&gt;statusBar1.Parent" xml:space="preserve">
-    <value>groupBox1</value>
+    <value>groupBox2</value>
   </data>
   <data name="&gt;&gt;statusBar1.ZOrder" xml:space="preserve">
     <value>1</value>
   </data>
-  <data name="axWindowsMediaPlayer1.Enabled" type="System.Boolean, mscorlib">
-    <value>True</value>
-  </data>
-  <data name="axWindowsMediaPlayer1.Location" type="System.Drawing.Point, System.Drawing">
-    <value>12, 27</value>
-  </data>
-  <data name="axWindowsMediaPlayer1.OcxState" mimetype="application/x-microsoft.net.object.binary.base64">
-    <value>
-        AAEAAAD/////AQAAAAAAAAAMAgAAAFdTeXN0ZW0uV2luZG93cy5Gb3JtcywgVmVyc2lvbj00LjAuMC4w
-        LCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPWI3N2E1YzU2MTkzNGUwODkFAQAAACFTeXN0
-        ZW0uV2luZG93cy5Gb3Jtcy5BeEhvc3QrU3RhdGUBAAAABERhdGEHAgIAAAAJAwAAAA8DAAAAuQAAAAIB
-        AAAAAQAAAAAAAAAAAAAAAKQAAAAAAwAACAACAAAAAAAFAAAAAAAAAPA/AwAAAAAABQAAAAAAAAAAAAgA
-        AgAAAAAAAwABAAAACwD//wMAAAAAAAsA//8IAAIAAAAAAAMAMgAAAAsAAAAIAAoAAABuAG8AbgBlAAAA
-        CwAAAAsAAAALAP//CwD//wsAAAAIAAIAAAAAAAgAAgAAAAAACAACAAAAAAAIAAIAAAAAAAsAAACJOAAA
-        fxUAAAs=
-</value>
-  </data>
-  <data name="axWindowsMediaPlayer1.Size" type="System.Drawing.Size, System.Drawing">
-    <value>1346, 579</value>
-  </data>
-  <data name="axWindowsMediaPlayer1.TabIndex" type="System.Int32, mscorlib">
-    <value>19</value>
-  </data>
-  <data name="&gt;&gt;axWindowsMediaPlayer1.Name" xml:space="preserve">
-    <value>axWindowsMediaPlayer1</value>
-  </data>
-  <data name="&gt;&gt;axWindowsMediaPlayer1.Type" xml:space="preserve">
-    <value>AxWMPLib.AxWindowsMediaPlayer, AxInterop.WMPLib, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null</value>
-  </data>
-  <data name="&gt;&gt;axWindowsMediaPlayer1.Parent" xml:space="preserve">
-    <value>$this</value>
-  </data>
-  <data name="&gt;&gt;axWindowsMediaPlayer1.ZOrder" xml:space="preserve">
-    <value>2</value>
-  </data>
   <metadata name="timer1.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
     <value>272, 17</value>
   </metadata>
+  <data name="trackBar1.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
   <data name="trackBar1.Location" type="System.Drawing.Point, System.Drawing">
-    <value>0, 16</value>
+    <value>0, 18</value>
   </data>
   <data name="trackBar1.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
     <value>1, 1, 1, 1</value>
   </data>
   <data name="trackBar1.Size" type="System.Drawing.Size, System.Drawing">
-    <value>1070, 45</value>
+    <value>1400, 56</value>
   </data>
   <data name="trackBar1.TabIndex" type="System.Int32, mscorlib">
     <value>0</value>
@@ -515,11 +501,17 @@
   <data name="Btn_Previous.ImageAlign" type="System.Drawing.ContentAlignment, System.Drawing">
     <value>BottomCenter</value>
   </data>
+  <data name="Btn_Previous.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
   <data name="Btn_Previous.Location" type="System.Drawing.Point, System.Drawing">
-    <value>48, 14</value>
+    <value>64, 16</value>
+  </data>
+  <data name="Btn_Previous.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>4, 3, 4, 3</value>
   </data>
   <data name="Btn_Previous.Size" type="System.Drawing.Size, System.Drawing">
-    <value>50, 50</value>
+    <value>67, 58</value>
   </data>
   <data name="Btn_Previous.TabIndex" type="System.Int32, mscorlib">
     <value>12</value>
@@ -534,7 +526,7 @@
     <value>groupBox2</value>
   </data>
   <data name="&gt;&gt;Btn_Previous.ZOrder" xml:space="preserve">
-    <value>2</value>
+    <value>3</value>
   </data>
   <data name="Btn_Pause.AutoSize" type="System.Boolean, mscorlib">
     <value>True</value>
@@ -553,11 +545,17 @@
   <data name="Btn_Pause.ImageAlign" type="System.Drawing.ContentAlignment, System.Drawing">
     <value>BottomCenter</value>
   </data>
+  <data name="Btn_Pause.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
   <data name="Btn_Pause.Location" type="System.Drawing.Point, System.Drawing">
-    <value>176, 14</value>
+    <value>235, 16</value>
+  </data>
+  <data name="Btn_Pause.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>4, 3, 4, 3</value>
   </data>
   <data name="Btn_Pause.Size" type="System.Drawing.Size, System.Drawing">
-    <value>50, 50</value>
+    <value>67, 58</value>
   </data>
   <data name="Btn_Pause.TabIndex" type="System.Int32, mscorlib">
     <value>10</value>
@@ -578,10 +576,16 @@
     <value>Bottom</value>
   </data>
   <data name="groupBox1.Location" type="System.Drawing.Point, System.Drawing">
-    <value>0, 684</value>
+    <value>0, 789</value>
+  </data>
+  <data name="groupBox1.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>4, 3, 4, 3</value>
+  </data>
+  <data name="groupBox1.Padding" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>4, 3, 4, 3</value>
   </data>
   <data name="groupBox1.Size" type="System.Drawing.Size, System.Drawing">
-    <value>1370, 65</value>
+    <value>1442, 75</value>
   </data>
   <data name="groupBox1.TabIndex" type="System.Int32, mscorlib">
     <value>20</value>
@@ -602,10 +606,16 @@
     <value>Bottom</value>
   </data>
   <data name="groupBox2.Location" type="System.Drawing.Point, System.Drawing">
-    <value>0, 612</value>
+    <value>0, 706</value>
+  </data>
+  <data name="groupBox2.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>4, 3, 4, 3</value>
+  </data>
+  <data name="groupBox2.Padding" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>4, 3, 4, 3</value>
   </data>
   <data name="groupBox2.Size" type="System.Drawing.Size, System.Drawing">
-    <value>1370, 72</value>
+    <value>1442, 83</value>
   </data>
   <data name="groupBox2.TabIndex" type="System.Int32, mscorlib">
     <value>21</value>
@@ -622,6 +632,44 @@
   <data name="&gt;&gt;groupBox2.ZOrder" xml:space="preserve">
     <value>0</value>
   </data>
+  <data name="axWindowsMediaPlayer1.Enabled" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="axWindowsMediaPlayer1.Location" type="System.Drawing.Point, System.Drawing">
+    <value>12, 27</value>
+  </data>
+  <data name="axWindowsMediaPlayer1.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>4, 3, 4, 3</value>
+  </data>
+  <data name="axWindowsMediaPlayer1.OcxState" mimetype="application/x-microsoft.net.object.binary.base64">
+    <value>
+        AAEAAAD/////AQAAAAAAAAAMAgAAAFdTeXN0ZW0uV2luZG93cy5Gb3JtcywgVmVyc2lvbj00LjAuMC4w
+        LCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPWI3N2E1YzU2MTkzNGUwODkFAQAAACFTeXN0
+        ZW0uV2luZG93cy5Gb3Jtcy5BeEhvc3QrU3RhdGUBAAAABERhdGEHAgIAAAAJAwAAAA8DAAAAuQAAAAIB
+        AAAAAQAAAAAAAAAAAAAAAKQAAAAAAwAACAACAAAAAAAFAAAAAAAAAPA/AwAAAAAABQAAAAAAAAAAAAgA
+        AgAAAAAAAwABAAAACwD//wMAAAAAAAsA//8IAAIAAAAAAAMAMgAAAAsAAAAIAAoAAABuAG8AbgBlAAAA
+        CwAAAAsAAAALAP//CwD//wsAAAAIAAIAAAAAAAgAAgAAAAAACAACAAAAAAAIAAIAAAAAAAsAAACJOAAA
+        fxUAAAs=
+</value>
+  </data>
+  <data name="axWindowsMediaPlayer1.Size" type="System.Drawing.Size, System.Drawing">
+    <value>1400, 680</value>
+  </data>
+  <data name="axWindowsMediaPlayer1.TabIndex" type="System.Int32, mscorlib">
+    <value>19</value>
+  </data>
+  <data name="&gt;&gt;axWindowsMediaPlayer1.Name" xml:space="preserve">
+    <value>axWindowsMediaPlayer1</value>
+  </data>
+  <data name="&gt;&gt;axWindowsMediaPlayer1.Type" xml:space="preserve">
+    <value>AxWMPLib.AxWindowsMediaPlayer, AxInterop.WMPLib, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null</value>
+  </data>
+  <data name="&gt;&gt;axWindowsMediaPlayer1.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;axWindowsMediaPlayer1.ZOrder" xml:space="preserve">
+    <value>2</value>
+  </data>
   <metadata name="$this.Localizable" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
     <value>True</value>
   </metadata>
@@ -629,13 +677,153 @@
     <value>25</value>
   </metadata>
   <data name="$this.AutoScaleDimensions" type="System.Drawing.SizeF, System.Drawing">
-    <value>6, 13</value>
+    <value>8, 15</value>
   </data>
   <data name="$this.ClientSize" type="System.Drawing.Size, System.Drawing">
-    <value>1370, 749</value>
+    <value>1442, 864</value>
+  </data>
+  <data name="$this.Icon" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+    <value>
+        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
+        AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+        AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+        AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+        AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAChAAAA+wAAAIcAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+        AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+        AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+        AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+        AAAAAAAAAAAAAAAAAAAAAAAMAAAA/wAAAP8AAADrAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+        AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+        AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+        AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+        AAAAAAAAAAAAAAAAAJsAAAD1AAAAfAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+        AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAP/g///////A/wBn////
+        /8D+AGH/////wPgAYH/////A8ABgP////8DgAHAf////wOAAcB/////AwPnwD////8CH//AP////wI//
+        +Af////An///B////8AAB//D////wAAD//P////AAAP//////8AAA///x///wAAH///H///AAAf//8f/
+        /8AAB///x///wAAPj4DHA8BAgB+HAEYBgACAH4ceRDGPQMA/Bz/EeR/AwD8iAER4AADgfiIARHgAAOD+
+        MTxEcZ4A8P4xGMYBjED//HGAxgPAQP/+ecPvh+HA/////////8D/////x///wP/////H///A/////8//
+        /8A=
+</value>
+  </data>
+  <data name="$this.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="$this.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>4, 3, 4, 3</value>
   </data>
   <data name="$this.Text" xml:space="preserve">
-    <value>Video Player </value>
+    <value>音视频播放器（深圳维周机器人）</value>
   </data>
   <data name="&gt;&gt;openFileDialog1.Name" xml:space="preserve">
     <value>openFileDialog1</value>
@@ -659,18 +847,6 @@
     <value>quitToolStripMenuItem</value>
   </data>
   <data name="&gt;&gt;quitToolStripMenuItem.Type" xml:space="preserve">
-    <value>System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;helpToolStripMenuItem.Name" xml:space="preserve">
-    <value>helpToolStripMenuItem</value>
-  </data>
-  <data name="&gt;&gt;helpToolStripMenuItem.Type" xml:space="preserve">
-    <value>System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;aboutToolStripMenuItem.Name" xml:space="preserve">
-    <value>aboutToolStripMenuItem</value>
-  </data>
-  <data name="&gt;&gt;aboutToolStripMenuItem.Type" xml:space="preserve">
     <value>System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
   <data name="&gt;&gt;aboutToolStripMenuItem1.Name" xml:space="preserve">
